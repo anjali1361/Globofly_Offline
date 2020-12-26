@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BookHub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CalculatorLove" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Cart-Implementation-App" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DestinationListAppUsingRetrofit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GloboFly-Retrofit-Demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GoogleMapDirectionSimple" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LoginApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Messenger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyJavaApplication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scissor Paper Rock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tic_Tac_Toe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UniversityApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/avengersapp" vcs="Git" />
+  </component>
+</project>
